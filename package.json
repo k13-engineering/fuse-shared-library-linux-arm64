@@ -1,0 +1,16 @@
+{
+  "name": "fuse-shared-library-linux-arm64",
+  "version": "1.0.0",
+  "description": "A module containing the .so file and configuration scripts necessary for FUSE on ARM64 based Linux.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
